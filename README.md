@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello, I'm Justin 👋
 
-<!--
-**jsmeya/jsmeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Junior CS student at the University of Houston.
+* 🔧 Working as a PC Technician at Lone Star College.
+* 🔒 Focusing on Cybersecurity.
 
-Here are some ideas to get you started:
+### Currently
+* 📚 Studying for the CompTIA Network+ and AWS CCP
+* 🐍 Building projects with Python
+* 🛡️ Strengthening security fundamentals
+* 👀 Looking for a summer 2027 Internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech & Skills
+**Languages:** `Python` `HTML/CSS` `Lua` \
+**Systems:** `Linux` `Windows` `VirtualBox` `AWS` `ServiceNow` `MECM`
+
+### Contact me
+* [LinkedIn](https://linkedin.com/in/justin-smeya)
+* [Website](https://justinsmeya.com)
+* [Email](mailto:justinsmeya@gmail.com)
