@@ -7,7 +7,7 @@
 ### Currently
 * 📚 Studying for the CompTIA Network+ and AWS CCP
 * 🐍 Building projects with Python
-* 🛡️ Strengthening security fundamentals
+* 🛡️ Strengthening networking and security fundamentals
 * 👀 Looking for a Summer 2027 Internship (Security or adjacent)
 
 ### Tech & Skills
