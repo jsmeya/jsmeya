@@ -5,15 +5,15 @@
 * 🔒 Focusing on Cybersecurity.
 
 ### Currently
-* 📚 Studying for the CompTIA Network+ and AWS CCP
+* 📚 Studying for the CompTIA Network+ and AWS Cloud Practitioner
 * 🐍 Building projects with Python
 * 🛡️ Strengthening networking and security fundamentals
 * 👀 Looking for a Summer 2027 Internship (Security or adjacent)
 
 ### Tech & Skills
-**Languages:** `Python` `HTML/CSS` `Lua` \
-**Systems:** `Linux` `Windows` `VirtualBox` `AWS` `ServiceNow` `MECM` \
-**Security & Networking:** `TCP/IP` `DNS` `DCHP` `SSH` `Subnetting` `Routing/Switching` `Network Security` `Packet Analysis` `AWS EC2` `Security Groups` `IAM` `Cloud Fundamentals`
+**Languages:** `Python` `HTML/CSS` `Lua` `R` \
+**Security:** `Nmap` `Wireshark` `Metasploit` `Burp Suite` `OSINT` \
+**Cloud & Systems:** `AWS` `Kali Linux` `Windows` `VirtualBox` `Git`
 
 ### Contact me
 * [LinkedIn](https://linkedin.com/in/justin-smeya)
