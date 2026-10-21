@@ -1,8 +1,9 @@
 ## Hello, I'm Justin 👋
 
 * 🎓 Junior CS student at the University of Houston.
-* 🔧 Working as a PC Technician at Lone Star College.
-* 🔒 Focusing on Cybersecurity.
+* 🔧 PC Technician at Lone Star College.
+* 🔴 InfoSec Operations Officer at CougarCS (UH's largest CS org)
+* 🔒 Focusing on Cybersecurity, specializing in Offensive Security.
 
 ### Currently
 * 📚 Studying for the CompTIA Network+ and AWS Cloud Practitioner
