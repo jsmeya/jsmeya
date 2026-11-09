@@ -3,10 +3,10 @@
 * 🎓 Junior CS student at the University of Houston
 * 🔧 PC Technician at Lone Star College
 * 🔴 InfoSec Operations Officer at CougarCS (UH's largest CS org)
-* 🔒 Focusing on Cybersecurity, specializing in Offensive Security.
+* 🔒 Focusing on Cybersecurity, specializing in Offensive Security
 
 ### Currently
-* 📚 Studying for the CompTIA Network+ and AWS Cloud Practitioner
+* 📚 Studying for the CompTIA Security+
 * 🐍 Building projects with Python
 * 🛡️ Strengthening networking and security fundamentals
 * 👀 Looking for a Summer 2027 Internship (Security or adjacent)
@@ -15,6 +15,7 @@
 **Languages:** `Python` `HTML/CSS` `Lua` `R` \
 **Security:** `Nmap` `Wireshark` `Metasploit` `Burp Suite` `OSINT` \
 **Cloud & Systems:** `AWS` `Kali Linux` `Windows` `VirtualBox` `Git`
+**Certifications:** CompTIA Network+
 
 ### Contact Me
 [LinkedIn](https://linkedin.com/in/justin-smeya)
