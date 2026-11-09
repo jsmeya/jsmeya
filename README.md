@@ -14,7 +14,7 @@
 ### Tech & Skills
 **Languages:** `Python` `HTML/CSS` `Lua` `R` \
 **Security:** `Nmap` `Wireshark` `Metasploit` `Burp Suite` `OSINT` \
-**Cloud & Systems:** `AWS` `Kali Linux` `Windows` `VirtualBox` `Git`
+**Cloud & Systems:** `AWS` `Kali Linux` `Windows` `VirtualBox` `Git` \
 **Certifications:** CompTIA Network+
 
 ### Contact Me
