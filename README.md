@@ -15,7 +15,7 @@
 **Languages:** `Python` `HTML/CSS` `Lua` `R` \
 **Security:** `Nmap` `Wireshark` `Metasploit` `Burp Suite` `OSINT` \
 **Cloud & Systems:** `AWS` `Kali Linux` `Windows` `VirtualBox` `Git` \
-**Certifications:** CompTIA Network+
+**Certifications:** `CompTIA Network+`
 
 ### Contact Me
 [LinkedIn](https://linkedin.com/in/justin-smeya)
