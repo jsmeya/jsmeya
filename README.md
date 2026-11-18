@@ -17,6 +17,10 @@
 **Cloud & Systems:** `AWS` `Kali Linux` `Windows` `VirtualBox` `Git` \
 **Certifications:** `CompTIA Network+`
 
+### More About Me
+* 🥁🎵 I play the drums and bass guitar, and enjoy writing music in my free time.
+* 🌍 I've been to France, Germany, and Spain on academic adventures.
+
 ### Contact Me
 [LinkedIn](https://linkedin.com/in/justin-smeya)
 
